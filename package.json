@@ -1,7 +1,7 @@
 {
-  "name": "rpg-synergy-party-builder",
+  "name": "gargadusa-synergy-finder",
   "version": "3.1.8",
-  "description": "RPG Synergy Party Builder — desktop app",
+  "description": "Gargadusa Synergy Finder — desktop app",
   "main": "main.js",
   "author": "Synergy Finder",
   "license": "MIT",
@@ -16,8 +16,8 @@
     "electron-builder": "^24.13.3"
   },
   "build": {
-    "appId": "com.synergybuilder.rpg",
-    "productName": "RPG Synergy Party Builder",
+    "appId": "com.gargadusa.synergyfinder",
+    "productName": "Gargadusa Synergy Finder",
     "directories": {
       "output": "dist"
     },
@@ -42,7 +42,7 @@
       "allowToChangeInstallationDirectory": true,
       "createDesktopShortcut": true,
       "createStartMenuShortcut": true,
-      "shortcutName": "RPG Synergy Party Builder"
+      "shortcutName": "Gargadusa Synergy Finder"
     },
     "mac": {
       "target": "dmg",
