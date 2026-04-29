@@ -1,6 +1,6 @@
 {
   "name": "gargadusa-synergy-finder",
-  "version": "3.2",
+  "version": "3.2.0",
   "description": "Gargadusa Synergy Finder — desktop app",
   "main": "main.js",
   "author": "Synergy Finder",
